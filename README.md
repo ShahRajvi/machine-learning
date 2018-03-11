@@ -1,6 +1,7 @@
 ### machine-learning
 
-These are the codes for the following few machine learning algorithms in Python.
+This repository contains codes for the following machine learning algorithms in Python.
+Implemented as a part of a Data Mining course.
 
 * Classification methods
   * Binary Logistic regression.
