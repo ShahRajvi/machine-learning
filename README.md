@@ -13,3 +13,6 @@ Implemented as a part of a Data Mining course.
   * K-center
   * K-Nearest Neighbor
 * Mixture Discriminant Analysis
+
+### Dependencies
+* [Python](https://www.python.org/) 3.5 or greater.
