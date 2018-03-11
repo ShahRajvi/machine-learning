@@ -16,3 +16,5 @@ Implemented as a part of a Data Mining course.
 
 ### Dependencies
 * [Python](https://www.python.org/) 3.5 or greater.
+* [Numpy](http://www.numpy.org/) 1.10 or greater
+* [SciPy](https://www.scipy.org/) 1.0
